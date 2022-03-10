@@ -1,4 +1,4 @@
-pays,Évolution population (%),dispo_calories,dispo_proteines,ratio_proteines_animales(%),PIB_par_habitant,taux_suffisance(٪),taux_dépendance_importations(٪),groupe_cah
+pays,Évolution population (%),dispo_calories,dispo_proteines,ratio_prot_anim,PIB_par_habitant,taux_suffisance,dep_import,groupe_cah
 Arménie,2.35,1103030.0,34415.850000000006,56.06,4622.733216,21.818181818181817,78.18181818181819,3
 Afghanistan,25.36,829645.0,20918.15,18.04,469.91909,41.7910447761194,65.67164179104478,1
 Albanie,-3.2,1218370.0,42347.299999999996,53.84,5303.197823,35.294117647058826,64.70588235294117,3
