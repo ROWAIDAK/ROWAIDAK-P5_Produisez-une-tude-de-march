@@ -1,4 +1,4 @@
-pays,Évolution population (%),dispo_calories,dispo_proteines,ratio_proteines_animales(%),PIB_par_habitant,taux_suffisance(٪),taux_dépendance_importations(٪),groupe_cah
+pays,Évolution population (%),dispo_calories,dispo_proteines,ratio_prot_anim,PIB_par_habitant,taux_suffisance,dep_import,groupe_cah
 Australie,13.7,1247205.0,39398.1,67.55,54763.202388,102.81576830249396,0.7240547063555913,4
 Autriche,6.5,1347215.0,39766.75,59.19,49700.761833,74.57627118644068,63.84180790960452,4
 Canada,9.8,1291735.0,39620.75,56.31,46550.335507,97.85296031229667,11.646063760572543,4
